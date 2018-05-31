@@ -2,7 +2,7 @@
 ---
 spring:
   application:
-    name: opsportal-foobar
+    name: opsportal-FOOBAR
 ...
 ---
 spring:
