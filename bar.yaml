@@ -2,7 +2,7 @@
 ---
 spring:
   application:
-    name: opsportal-quicklooks
+    name: opsportal-bar
 ...
 ---
 spring:
